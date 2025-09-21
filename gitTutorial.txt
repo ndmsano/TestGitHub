@@ -1,10 +1,10 @@
 GITHUB tutorial fra angela yu full stack kursus
 
 Opret forbindelse til GITHUB:
-* Lav en mappe som du vil gemme dine filer, og opret filer. * Gå til folderen i terminal og initialiser git. git init. check at git er der med ls -a (hidden folders) * Lav en touch .gitignore     (der er ingen file extension) * Åben .gitignore filen: open -a /Applications/Visual\ Studio\ Code.app .gitignore * Indskriv i .gitignore filen de filer som IKKE skal pushes.
-* Læg filerne i Staging: git add . (bemærk at .gitignore filerne er ikke med) * Commit filerne til GIT (local): git commit -m "initial commit"
- Opsæt Github repository:
-*Opret manuelt et repository (repo) og push mit local repo til github *Opret en remote forbindelse : git remote add origin https://github.com/ndmsano/TestGitHub.git (nu er der hul igennem fra min lokale TestGitHub mappe til Github. * overfør alle filer til Github: git push -u origin main
+* Lav en mappe som du vil gemme dine filer, og opret filer.* Gå til folderen i terminal og initialiser git. git init. check at git er der med ls -a (hidden folders)* Lav en touch .gitignore     (der er ingen file extension)* Åben .gitignore filen: open -a /Applications/Visual\ Studio\ Code.app .gitignore* Indskriv i .gitignore filen de filer som IKKE skal pushes.
+* Læg filerne i Staging: git add . (bemærk at .gitignore filerne er ikke med)* Commit filerne til GIT (local): git commit -m "initial commit"
+Opsæt Github repository:
+*Opret manuelt et repository (repo) og push mit local repo til github*Opret en remote forbindelse : git remote add origin https://github.com/ndmsano/TestGitHub.git (nu er der hul igennem fra min lokale TestGitHub mappe til Github.* overfør alle filer til Github: git push -u origin main
 
 
 GIT ADD .
